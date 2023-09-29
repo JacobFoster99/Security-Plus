@@ -1,2 +1,2 @@
 # Security-Plus
-Documenting lab exercises and learning from Security+ certification study. are emulated, 
+Documenting lab exercises and learning from Security+ certification study. 
